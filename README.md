@@ -60,9 +60,6 @@ You are free to use, modify, and distribute this plugin.
 
 ## ☕ Support This Project
 
-If you find this plugin helpful, please consider supporting development:
+If you find this plugin helpful, consider buying me a coffee!  
+💖 [Donate via PayPal](https://paypal.me/empresskorea9023)
 
-- Buy Me a Coffee: https://buymeacoffee.com/yourname
-- GitHub Sponsors: [your-sponsor-link]
-
----
