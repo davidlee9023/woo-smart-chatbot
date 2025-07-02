@@ -1,0 +1,13 @@
+# WordPress & PHP ignores
+*.log
+*.sql
+*.tar.gz
+*.zip
+wp-content/upgrade/
+node_modules/
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
+*.bak
